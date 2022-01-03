@@ -12,7 +12,7 @@
          alt="Waving hand animated gif"
          height="25"
          width="25"/>
-  </br>and I learned other computer languages out of curiosity:
+  </br>and I'm learning other computer languages out of challenge and curiosity
 </h4>
 
 <div style="display: inline_block" align="center"><br>
