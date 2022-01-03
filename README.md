@@ -18,5 +18,5 @@
   <img align="center" alt="Gabb-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 <div>
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gabrielalastra/gabrielalastra/blob/main/.github/workflows/snake.yml)
 </div>
