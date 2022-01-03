@@ -17,6 +17,7 @@
   <img align="center" alt="Gabb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabb-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
+
 <div>
-  ![Snake animation](https://github.com/gabrielalastra/gabrielalastra/blob/main/.github/workflows/snake.yml)
+     ![Snake animation](https://github.com/gabrielalastra/gabrielalastra/blob/output/github-contribution-grid-snake.svg)
 </div>
