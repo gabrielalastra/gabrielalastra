@@ -12,7 +12,7 @@
          alt="Waving hand animated gif"
          height="25"
          width="25"/>
-  </br>and I would love to collaborate with a great team!
+  </br>and I'm learning other languages and applications out of challenge and curiosity.
 </h3>
 
 <div style="display: inline_block" align="center"><br>
@@ -24,7 +24,7 @@
 </div>
 
 <div align="right"> 
-   <h4 aling="right">I'm looking for a great team to collaborate </br>Contact with me:</h4>
+   <h4 aling="right">I would love to collaborate with a great team </br>Contact with me:</h4>
   <a href = "mailto:gabriela.lastra@alumni.usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielalastra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </h4>
