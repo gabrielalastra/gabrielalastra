@@ -5,12 +5,17 @@
          width="45" /> <br/>I'm Gabriela Lastra
 </h1>
         
-<h4 aling="center"> 
+<h4 align="left"> 
   I'm a Geographer (bachelors and licentiate) from University of São Paulo
-  I used to program with weather database and learned other computer languages out of curiosity 
+  </br>I used to program with weather database at university
+         <img src="https://icons.iconarchive.com/icons/flat-icons.com/flat/64/Satellite-icon.png" 
+         alt="Waving hand animated gif"
+         height="25"
+         width="25"/>
+  </br>and I learned other computer languages out of curiosity:
 </h4>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
     <img align="center" alt="Gabb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Gabb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,6 +23,12 @@
   <img align="center" alt="Gabb-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
-<div>
-     ![Snake animation](https://github.com/gabrielalastra/gabrielalastra/blob/output/github-contribution-grid-snake.svg)
+<div align="right"> 
+   <h4 aling="right">I'm looking for a great team to collaborate </br>Contact with me:</h4>
+  <a href = "mailto:gabriela.lastra@alumni.usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielalastra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </h4>
+ 
+  ![Snake animation](https://github.com/gabrielalastra/gabrielalastra/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
