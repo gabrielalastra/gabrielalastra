@@ -5,7 +5,7 @@
          width="45" /> <br/>I'm Gabriela Lastra
 </h1>
         
-<h4 align="left"> 
+<h3 align="left"> 
   I'm a Geographer (bachelors and licentiate) from University of São Paulo
   </br>I used to program with weather database at university
          <img src="https://icons.iconarchive.com/icons/flat-icons.com/flat/64/Satellite-icon.png" 
@@ -13,7 +13,7 @@
          height="25"
          width="25"/>
   </br>and I would love to collaborate with a great team!
-</h4>
+</h3>
 
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Gabb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
