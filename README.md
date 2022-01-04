@@ -6,7 +6,7 @@
 </h1>
         
 <h3 align="left"> 
-  I'm a Geographer (bachelors and licentiate) from University of São Paulo
+  I'm a Geographer from the University of São Paulo
   </br>I used to program with weather database at university
          <img src="https://icons.iconarchive.com/icons/flat-icons.com/flat/64/Satellite-icon.png" 
          alt="Waving hand animated gif"
