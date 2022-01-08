@@ -9,7 +9,7 @@
   I'm a Geographer from the University of São Paulo
   </br>I used to program with weather database at university
          <img src="https://icons.iconarchive.com/icons/flat-icons.com/flat/64/Satellite-icon.png" 
-         alt="Waving hand animated gif"
+         alt="satellite"
          height="25"
          width="25"/>
   </br>and I'm learning other languages and applications out of challenge, curiosity and because it is fun.
