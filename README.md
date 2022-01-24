@@ -24,7 +24,7 @@
 </div>
 
 <div align="right"> 
-   <h4 aling="right">I would love to collaborate with a great team </br>Contact with me:</h4>
+   <h4 aling="right">Contact with me:</h4>
   <a href = "mailto:gabriela.lastra@alumni.usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielalastra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </h4>
