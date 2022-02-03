@@ -7,13 +7,16 @@
         
 <h3 align="left"> 
   I'm a Geographer from the University of São Paulo
-  </br>I used to program with weather database at university
+  </br>I used to code with weather database at university
          <img src="https://icons.iconarchive.com/icons/flat-icons.com/flat/64/Satellite-icon.png" 
          alt="satellite"
          height="25"
          width="25"/>
-  </br>and I'm improving my storytelling skills with database,
-  </br>I like to know new languages and I love working with python.
+  </br>and now that I graduated, I'm improving my storytelling skills with differents datasets, because this is the way that I like to see information.
+  </br>I like to learn new languages and I <img src="https://icons.iconarchive.com/icons/tanitakawkaw/simple-cute/48/heart-icon.png" 
+         alt="heart"
+         height="25"
+         width="25"/> working with python.
 </h3>
 
 <div style="display: inline_block" align="center"><br>
