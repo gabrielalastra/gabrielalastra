@@ -12,7 +12,8 @@
          alt="satellite"
          height="25"
          width="25"/>
-  </br>and I'm learning other languages and applications out of challenge, curiosity and because it is fun.
+  </br>and I'm improving my storytelling skills with database,
+  </br>I like to know new languages and I love working with python.
 </h3>
 
 <div style="display: inline_block" align="center"><br>
