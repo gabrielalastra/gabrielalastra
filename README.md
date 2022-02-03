@@ -1,3 +1,4 @@
+<html>
 <h1 align="center">
    Hello there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -5,19 +6,21 @@
          width="45" /> <br/>I'm Gabriela Lastra
 </h1>
         
-<h3 align="left"> 
+<body align="left"> 
   I'm a Geographer from the University of São Paulo
-  </br>I used to code with weather database at university
-         <img src="https://icons.iconarchive.com/icons/flat-icons.com/flat/64/Satellite-icon.png" 
+  </br>I used to code with weather database at university 
+      <img align='right' src="https://icons.iconarchive.com/icons/flat-icons.com/flat/64/Satellite-icon.png" 
          alt="satellite"
-         height="25"
-         width="25"/>
-  </br>and now that I graduated, I'm improving my storytelling skills with differents datasets, because this is the way that I like to see information.
+         height="50"
+         width="50"/>
+
+
+  </br>Now that I've got a degree, I'm improving my storytelling skills using differents datasets. </br>This is the way that I like to see information.
   </br>I like to learn new languages and I <img src="https://icons.iconarchive.com/icons/tanitakawkaw/simple-cute/48/heart-icon.png" 
          alt="heart"
-         height="25"
-         width="25"/> working with python.
-</h3>
+         height="20"
+         width="20"/> working with python.
+
 
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Gabb-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,9 +33,10 @@
 <div align="right"> 
    <h4 aling="right">Contact with me:</h4>
   <a href = "mailto:gabriela.lastra@alumni.usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielalastra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </h4>
+  
  
   ![Snake animation](https://github.com/gabrielalastra/gabrielalastra/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+</body>
+</html>
