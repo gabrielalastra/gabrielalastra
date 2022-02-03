@@ -15,7 +15,7 @@
          width="50"/>
 
 
-  </br>Now that I've got a degree, I'm improving my storytelling skills using differents datasets. </br>This is the way that I like to see information.
+  </br>Now that I've got a degree, I'm improving my storytelling skills using different datasets. </br>This is the way that I like to see information.
   </br>I like to learn new languages and I <img src="https://icons.iconarchive.com/icons/tanitakawkaw/simple-cute/48/heart-icon.png" 
          alt="heart"
          height="20"
