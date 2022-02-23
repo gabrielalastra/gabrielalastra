@@ -15,11 +15,9 @@
          width="50"/>
 
 
-  </br>Now that I've got a degree, I'm improving my storytelling skills using different datasets. </br>This is the way that I like to find out information.
-  </br>I like to learn new languages and I <img src="https://icons.iconarchive.com/icons/tanitakawkaw/simple-cute/48/heart-icon.png" 
-         alt="heart"
-         height="20"
-         width="20"/> working with python.
+  <p>Now that I've got a degree, I'm improving my storytelling skills using different datasets and dataviz.</p> 
+   <p>I like to search for information and make the dataset answering me.</br>I also appreciate the feeling of organization and create graph.
+  </br>I'm always willing to do dashboards on Tableau and codes in Python.</p>
 
 
 <div style="display: inline_block" align="center"><br>
