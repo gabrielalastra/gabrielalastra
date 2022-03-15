@@ -19,7 +19,6 @@
    <p>I like to search for information and make the dataset answering me.</br>I also appreciate the feeling of organization and create graph.
   </br>I'm always willing to do dashboards on Tableau and codes in Python.</p>
 
-
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Gabb-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img align="center" alt="Gabb-tableau" height="50" width="45" src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png"/>
@@ -31,7 +30,9 @@
 
 <div align="right"> 
    <h4 aling="right">Contact with me:</h4>
-  <a href = "mailto:gabriela.lastra@alumni.usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabriela.lastra@alumni.usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></br>   
+<a href = "https://public.tableau.com/app/profile/gabriela.lastra#!/"><img height=25 src="https://img.shields.io/badge/my%20page%20on-TABLEAU-blue"></a>
+
   
  
   ![Snake animation](https://github.com/gabrielalastra/gabrielalastra/blob/output/github-contribution-grid-snake.svg)
