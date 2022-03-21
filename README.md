@@ -35,8 +35,9 @@
 
   
  
-  ![Snake animation](https://github.com/gabrielalastra/gabrielalastra/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
+
+<img  src="https://i.picasion.com/pic92/1bdced5c2f9e61b3dae045e0af92bc04.gif" width="300" height="300" border="0" alt="https://picasion.com/" />
 </body>
 </html>
