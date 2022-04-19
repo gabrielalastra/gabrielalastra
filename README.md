@@ -38,6 +38,5 @@
   
 </div>
 
-<img src="https://i.picasion.com/pic92/34cdb6430fdeaa5d29b2ea455ea704df.gif" width="300" height="300" border="0" alt="https://picasion.com/"/>
 </body>
 </html>
