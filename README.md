@@ -7,17 +7,19 @@
 </h1>
         
 <body align="left"> 
-  I'm a Geographer from the University of São Paulo
-  </br>I used to code with weather database at university 
-      <img align='right' src="https://icons.iconarchive.com/icons/flat-icons.com/flat/64/Satellite-icon.png" 
+         <img align='right' src="https://icons.iconarchive.com/icons/flat-icons.com/flat/64/Satellite-icon.png" 
          alt="satellite"
          height="50"
          width="50"/>
+  <p>I'm a Geographer from the University of São Paulo
+  </br>I used to code with weather database at university </p>
 
 
-  <p>Now that I've got a degree, I'm improving my storytelling skills using different datasets and dataviz.</p> 
-   <p>I like to search for information and make the dataset answering me.</br>I also appreciate the feeling of organization and create graph.
-  </br>I'm always willing to do dashboards on Tableau and codes in Python.</p>
+
+  <p>Now that I've got a degree, I'm improving my storytelling skills with data.</p> 
+   <p>I like to search for information and let the dataset answer me.
+   </br>I also appreciate the feeling of organization and create graph.
+   </br>I'm always willing to code in Python and make dashboards on Tableau.</p>
 
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Gabb-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
