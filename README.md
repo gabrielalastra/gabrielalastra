@@ -1,10 +1,12 @@
 <html>
-<h1 align="center">
+<h2 align="center">
    Hello there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> <br/>I'm Gabriela Lastra
-</h1>
+      <p>and here is my Project Library</p>
+
+</h2>
         
 <body align="left"> 
          <img align='right' src="https://icons.iconarchive.com/icons/flat-icons.com/flat/64/Satellite-icon.png" 
