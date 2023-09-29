@@ -8,8 +8,8 @@
         </p>
         <h2>Business Analyses 📈</h2>
         <ul>
-            <li><a href="https://github.com/gabrielalastra/AccountsReceivable">Accounts Receivable</a></li>
             <li><a href="https://github.com/gabrielalastra/HR_Analysis">HR Analysis Report</a></li>
+            <li><a href="https://github.com/gabrielalastra/AccountsReceivable">Accounts Receivable</a></li>
             <li><a href="https://github.com/gabrielalastra/Sales_Agent_Tracker">Sales Agent Analysis</a></li>
             <li><a href="https://github.com/gabrielalastra/Sales_Analysis_WizardMart">Sales Analysis</a></li>
             <li><a href="https://github.com/gabrielalastra/Shipping_Analysis">Shipping Analysis</a></li>
