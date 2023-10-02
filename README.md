@@ -3,7 +3,7 @@
     <div class="container">
         <h1 align="center">Hello there!</h1> 
         <img width=10% align='right' src='https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif'/>
-        <p align="center"><strong>I'm Gabriela Lastra, a Geographer, and an Enthusiast in Automation and Digital Solutions.</strong>
+        <p align="center"><strong>I'm Gabriela Lastra, a Geographer and an Enthusiast in Automation and Digital Solutions.</strong>
         </p><p align="center">I primarily use GitHub as a private repository, but I'm happy to share some of my projects with everyone interested:
         </p>
         <h2>Business Analyses 📈</h2>
